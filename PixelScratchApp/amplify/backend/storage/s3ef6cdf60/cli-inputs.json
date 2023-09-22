@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3ef6cdf60",
+  "policyUUID": "ef6cdf60",
+  "bucketName": "pixelscratchapp7a9ddfdcddc047269bb27255fa2fde79",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pixelscratchapp-dev-232336-authRole",
+      "UnauthRoleArn": "arn:aws:iam::286108833451:role/amplify-pixelscratchapp-dev-232336-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::286108833451:role/amplify-pixelscratchapp-dev-232336-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-pixelscratchapp-dev-232336-deployment",
+      "UnauthRoleName": "amplify-pixelscratchapp-dev-232336-unauthRole",
+      "StackName": "amplify-pixelscratchapp-dev-232336",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:286108833451:stack/amplify-pixelscratchapp-dev-232336/3dd4ce80-594b-11ee-9c56-0265be4a4438",
+      "AmplifyAppId": "d2dig37gtxy9jl"
+    },
+    "categories": {
+      "auth": {
+        "pixelscratchappaad71611": {}
+      },
+      "storage": {
+        "s3ef6cdf60": {}
+      }
+    }
+  }
+}
