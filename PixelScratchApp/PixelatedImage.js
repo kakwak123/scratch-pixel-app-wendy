@@ -7,7 +7,7 @@ function PixelatedImage() {
 
     async function fetchImage() {
         try {
-            const imageUrl = await Storage.get('your-image-key.jpg'); // Replace with your image's key
+            const imageUrl = await Storage.get('IMG_20230422_012333_971.jpg'); // Replace with your image's key
             return imageUrl;
         } catch (error) {
             console.error("Error fetching image: ", error);
